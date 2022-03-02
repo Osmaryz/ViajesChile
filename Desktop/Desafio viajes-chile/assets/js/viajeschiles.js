@@ -1,4 +1,4 @@
-
+/* 
 $( document ).ready(function() {
     $(".nav-link").on("click", function (e) {
       e.preventDefault();
@@ -6,4 +6,4 @@ $( document ).ready(function() {
       $("html, body").animate({ scrollTop: $(href).offset().top }, 800);
     });
 });
-
+ */
