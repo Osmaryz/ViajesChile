@@ -32,3 +32,7 @@ hr {
   width: 238px;
   height: 158.667px;
 }
+
+html {
+  scroll-behavior: smooth;
+}
